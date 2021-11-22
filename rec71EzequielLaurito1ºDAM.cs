@@ -33,7 +33,7 @@ T- Terminar el uso de la aplicación (como no sabemos almacenar la información,
 using System;
 public class T4s2
 {
-    const int MAXIMO = 10000;
+    const int MAXIMO = 30000;
     
     
     struct tipoIngreso
