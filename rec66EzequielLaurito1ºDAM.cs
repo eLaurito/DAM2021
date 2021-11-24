@@ -9,7 +9,7 @@ public class T4s2
 {
     public static void Main()
     {
-        float[,] matrizz = new float [2,5];
+        float[,] matrizz = new float [2,6];
         float promedio = 0, promedioTotal = 0;
 
         for(int i = 0; i < matrizz.GetLength(0); i++)
